@@ -1,0 +1,64 @@
+{
+  "datas" : [
+    {
+        "id": 1,
+        "question": "Which word start with 'a'",
+        "options": ["orange", "apple", "strawberry", "cow"],
+        "answer": "apple"
+    },
+    {
+        "id": 2,
+        "question": "Which word start with 'g'",
+        "options": ["orange", "blue", "yellow", "green"],
+        "answer": "green"
+    },
+    {
+        "id": 3,
+        "question": "Which word start with 'r'",
+        "options": ["red", "green", "blue", "purple"],
+        "answer": "red"
+    },
+    {
+      "id": 4,
+      "question": "Which word start with 'b'",
+      "options": ["red", "green", "blue", "purple"],
+      "answer": "blue"
+    },
+    {
+      "id": 5,
+      "question": "Which word start with 'p'",
+      "options": ["red", "green", "blue", "purple"],
+      "answer": "purple"
+    },
+    {
+      "id": 6,
+      "question": "Which word start with 's'",
+      "options": ["red", "gray", "skyblue", "purple"],
+      "answer": "skyblue"
+    },
+    {
+      "id": 7,
+      "question": "Which word start with 'w'",
+      "options": ["red", "white", "blue", "purple"],
+      "answer": "white"
+    },
+    {
+      "id": 8,
+      "question": "Which word start with 'i'",
+      "options": ["ice", "green", "blue", "purple"],
+      "answer": "ice"
+    },
+    {
+      "id": 9,
+      "question": "Which word start with 'vesion'",
+      "options": ["vesion", "green", "blue", "purple"],
+      "answer": "vesion"
+    },
+    {
+      "id": 3,
+      "question": "Which word start with 'f'",
+      "options": ["fast", "green", "blue", "purple"],
+      "answer": "fast"
+    }
+  ]
+} 
